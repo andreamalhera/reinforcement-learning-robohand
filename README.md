@@ -10,8 +10,10 @@ to maximise the total rewards. If this reminds you of training a dog, you are co
 So far this approach has also been quite successful for autonomous systems, robotics and gaming. If you would like to know how a human can teach a robot to learn on its own and reach a given goal, please feel welcome to join this talk.
 
 ## Presentation Slides:
-* [Uni-presentation]() [edit](https://docs.google.com/presentation/d/1oRmDDGKMB_C7ISJgBT3auB_IZWQQS9eyBsHfChOiap8/edit)
-* [Robby in 5 min, PyConDe 2019 Lightning Talk]() [edit](https://docs.google.com/presentation/d/11uKLWPDoD_YKr--j9TG3pPIvMzhpDtq16oPdWPUVLnY/edit)
+* [Project Final Presentation at LMU Munich](https://github.com/andreamalhera/reinforcement-learning-robohand/blob/master/presentation_slides/Robby_robot_hand_uni.pdf) [edit](https://docs.google.com/presentation/d/1oRmDDGKMB_C7ISJgBT3auB_IZWQQS9eyBsHfChOiap8/edit)
+* [Robby in 5 min, PyConDe 2019 Lightning Talk](https://github.com/andreamalhera/reinforcement-learning-robohand/blob/master/presentation_slides/robby_2_5min_lightningtalk.pdf) [edit](https://docs.google.com/presentation/d/11uKLWPDoD_YKr--j9TG3pPIvMzhpDtq16oPdWPUVLnY/edit)
+* [Robby in 15 min, Research Presentation at LMU Munich 2020](https://github.com/andreamalhera/reinforcement-learning-robohand/blob/master/presentation_slides/robby_10_15_min_future_research.pdf) [edit](https://docs.google.com/presentation/d/15yNk10FULY389fQZD6AdsOLlAP-UqpZKCokKtPMFLa4/edit)
+* [Robby in 2 min, Python Pizza Conf 2020 Lightning Talk](https://github.com/andreamalhera/reinforcement-learning-robohand/blob/master/presentation_slides/robby_2_5min_lightningtalk.pdf) [edit](https://docs.google.com/presentation/d/11uKLWPDoD_YKr--j9TG3pPIvMzhpDtq16oPdWPUVLnY/edit)
 
 # Important Documentations
 
