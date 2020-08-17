@@ -67,7 +67,7 @@ touch ./etc/conda/deactivate.d/env_vars.sh
 ````
 Add following exports to $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh:
 ```
-export LD_LIBRARY_PATH=/Users/studyingam//.mujoco
+export LD_LIBRARY_PATH=/Users/<username>//.mujoco
 export PYTHONPATH="$PYTHONPATH:/Users/<username>/git_tree/reinforcement-learning-robohand"
 ````
 
